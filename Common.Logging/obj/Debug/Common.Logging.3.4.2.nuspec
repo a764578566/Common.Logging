@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Common.Logging</id>
+    <version>3.4.2</version>
+    <authors>Common.Logging</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Common.Logging.Core" version="3.4.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging\bin\Debug\netstandard2.0\Common.Logging.dll" target="lib\netstandard2.0\Common.Logging.dll" />
+  </files>
+</package>

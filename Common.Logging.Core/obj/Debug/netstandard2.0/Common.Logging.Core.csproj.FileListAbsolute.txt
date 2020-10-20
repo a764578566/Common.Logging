@@ -1,0 +1,17 @@
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.deps.json
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.dll
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.pdb
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.csprojAssemblyReference.cache
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.AssemblyInfoInputs.cache
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.AssemblyInfo.cs
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.csproj.CoreCompileInputs.cache
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.dll
+E:\mysoft\test\TestCode\ConsoleApp1\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.pdb
+D:\github\my\Common.Logging\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.deps.json
+D:\github\my\Common.Logging\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.dll
+D:\github\my\Common.Logging\Common.Logging.Core\bin\Debug\netstandard2.0\Common.Logging.Core.pdb
+D:\github\my\Common.Logging\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.AssemblyInfoInputs.cache
+D:\github\my\Common.Logging\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.AssemblyInfo.cs
+D:\github\my\Common.Logging\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.csproj.CoreCompileInputs.cache
+D:\github\my\Common.Logging\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.dll
+D:\github\my\Common.Logging\Common.Logging.Core\obj\Debug\netstandard2.0\Common.Logging.Core.pdb
